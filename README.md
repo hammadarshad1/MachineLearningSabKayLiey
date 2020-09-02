@@ -1,2 +1,2 @@
 # MachineLearningSabKayLiey
-Repository for the online machine learning course.
+Repository of the online ML (Machine Learning) course.
